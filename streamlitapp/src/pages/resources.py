@@ -6,4 +6,4 @@ import streamlit as st
 def write():
     udisp.title_awesome("Resources")
 
-    st.write("@avkashchauhan")
+    st.write("Strange Fruits")
