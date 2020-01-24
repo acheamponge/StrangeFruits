@@ -17,8 +17,8 @@ MENU = {
 }
 
 def main():
-    st.sidebar.title("Navigate yourself...")
-    menu_selection = st.sidebar.radio("Choice your option...", list(MENU.keys()))
+    st.sidebar.title("Navigation")
+    menu_selection = st.sidebar.radio("Pick an option...", list(MENU.keys()))
 
     menu = MENU[menu_selection]
 

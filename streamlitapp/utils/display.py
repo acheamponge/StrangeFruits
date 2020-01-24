@@ -11,7 +11,7 @@ def title_awesome(body: str):
         f"##  Historical American Lynching :  {body} "
         "[![Quantum](https://cdn.rawgit.com/sindresorhus/awesome/"
         "d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]"
-        "(https://github.com/acheamponge/american_lynchings)"
+        "(https://github.com/acheamponge/historical_american_lynchings)"
     )
 
 def render_md(md_file_name):
