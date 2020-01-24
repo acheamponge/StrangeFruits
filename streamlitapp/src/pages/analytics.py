@@ -41,7 +41,8 @@ def write():
     'Month',
     'Race',
     'County',
-    'Offense'    
+    'Offense',
+    'Sex'    
             }
     pick_grp = st.selectbox("Groupby: ", list(group))
     
@@ -51,3 +52,52 @@ def write():
     df3.columns = ['Count']
     
     st.dataframe(df3)
+    
+    month_to_filter = st.slider('Filter Data By Month', 0, 12, 8)
+    filtered_data_mon = df[df['Month'] == str(month_to_filter)]
+    st.dataframe(filtered_data_mon)
+    
+    year_to_filter = st.slider('Filter Data By Year', 1882, 1930, 1900)
+    filtered_data_yr = df[df['Year'] == str(year_to_filter)]
+    st.dataframe(filtered_data_yr)
+    
+    
+    states = {
+    'AL',
+    'AR',
+    'FL',
+    'GA',
+    'KY',
+    'LA',
+    'MS',
+    'NC',
+    'SC',
+    'TN'
+            }
+            
+    pick_st = st.selectbox("Filter By State: ", list(states))
+    filtered_data_st = df[df['State'] == str(pick_st)]
+    st.dataframe(filtered_data_st)
+    
+    
+    race = {
+    'Blk',
+    'Other',
+    'Unk',
+    'Wht'
+            }
+            
+    pick_rc = st.selectbox("Filter By Race: ", list(race))
+    filtered_data_rc = df[df['Race'] == str(pick_rc)]
+    st.dataframe(filtered_data_rc)
+    
+    
+    sex = {
+    'Male',
+    'Fe',
+    'Unk'
+            }
+            
+    pick_sex = st.selectbox("Filter By Sex: ", list(sex))
+    filtered_data_sex = df[df['Sex'] == str(pick_sex)]
+    st.dataframe(filtered_data_sex)
