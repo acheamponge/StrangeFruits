@@ -1,6 +1,6 @@
 import base64
 import importlib
-
+import pandas as pd
 import streamlit as st
 
 def render_page(menupage):
@@ -23,3 +23,7 @@ def get_file_content_as_string(path):
 
 def show_code(file_name):
     return get_file_content_as_string(file_name)
+
+def data_frame(filename):
+    df = pd.read_csv(filename)
+    st.write(df)
