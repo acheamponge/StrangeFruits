@@ -4,6 +4,6 @@ import utils.display as udisp
 import streamlit as st
 
 def write():
-    udisp.title_awesome("Data Visualization")
+    udisp.title_awesome("Data Visualizations")
 
     st.write("Strange Fruits")

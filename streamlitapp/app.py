@@ -11,7 +11,7 @@ import src.pages.resources
 MENU = {
     "Home" : src.pages.home,
     "Data Analytics" : src.pages.analytics,
-    "Data Visualization" : src.pages.visualization,
+    "Data Visualizations" : src.pages.visualization,
     "Resources" : src.pages.resources,
     "About" : src.pages.about
 }
