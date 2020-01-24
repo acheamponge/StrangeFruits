@@ -25,10 +25,7 @@ def main():
     with st.spinner(f"Loading {menu_selection} ..."):
         udisp.render_page(menu)
 
-    st.sidebar.info(
-        "https://github.com/acheamponge/american_lynchings"
-    )
-    
+   
 
 if __name__ == "__main__":
     main()
