@@ -17,7 +17,8 @@ def write():
     
     
     analysis = {
-    'count'
+    'count',
+    'date span'
             }
             
     
@@ -35,6 +36,8 @@ def write():
     if ana=='count':
         st.info("Total Number of Lynchings: " + str(df.shape[0]))
     
+    if ana=='date span':
+        st.info("This data set spans from 1882 - 1930 (48 years)")
     group = {
     'State',
     'Year',
