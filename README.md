@@ -36,3 +36,8 @@ Huge thank you to MarcSkovMadsen and Avkash whose use of Streamlit helped make t
             
         
 [Avkash](https://github.com/Avkash/demoapps)
+
+## Collaborators:
+- Samuel Osei Afriyie - https://www.linkedin.com/in/samuel-osei-afriyie-b1543257/
+
+- Emmanuel Acheampong - https://www.linkedin.com/in/emmanuel-acheampong/
