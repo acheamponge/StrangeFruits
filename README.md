@@ -13,4 +13,4 @@ This project provides:
 Visit the app at [StrangeFruits Project](http://strangefruit.herokuapp.com/)!
 
 
-![Strange Fruits Website](https://github.com/MarcSkovMadsen/awesome-streamlit/blob/master/assets/awesome-streamlit-full-branded.gif?raw=true)
+![Strange Fruits Website](https://github.com/acheamponge/StrangeFruits/blob/master/streamlitapp/img/sf.gif)
