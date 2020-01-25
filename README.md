@@ -9,3 +9,5 @@ This project provides:
 - Data Analytics of the HAL Project Lynching Dataset.
 - Data Visualization of the various attributes of the dataset.
 - Resources on Lynchings in America.
+
+Visit the app at [StrangeFruits Project](http://strangefruit.herokuapp.com/)!
