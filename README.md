@@ -10,7 +10,13 @@ This project provides:
 - Data Visualization of the various attributes of the dataset.
 - Resources on Lynchings in America.
 
-Visit the app at [StrangeFruits Project](http://strangefruit.herokuapp.com/)!
+Visit the app at [Strange Fruits Project](http://strangefruit.herokuapp.com/)
 
 
 ![Strange Fruits Website](https://github.com/acheamponge/StrangeFruits/blob/master/streamlitapp/img/sf.gif)
+
+
+## You can contribute:
+- On Github
+ 
+- Google Docs: [Strange Fruits Google Docs](https://docs.google.com/document/d/11v9jWw98QerB--y08oQk6fSOUKhxk5p_68Ariy-vYXc/edit?usp=sharing)
