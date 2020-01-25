@@ -10,6 +10,10 @@ This project provides:
 - Data Visualization of the various attributes of the dataset.
 - Resources on Lynchings in America.
 
+This purpose of this app is to create an interactive platform to analyze the dataset of lynchings that happened in America.
+
+The name of the project was inspired by Nina Simone’s rendition of Billie Holiday’s classic Strange Fruit.
+
 Visit the app at [Strange Fruits Project](http://strangefruit.herokuapp.com/)
 
 
