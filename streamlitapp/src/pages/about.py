@@ -6,4 +6,4 @@ import streamlit as st
 def write():
     udisp.title_awesome("About")
 
-    st.write("Thanks!!")
+    udisp.render_md("resources/about.md")

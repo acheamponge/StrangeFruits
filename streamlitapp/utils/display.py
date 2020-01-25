@@ -7,8 +7,9 @@ def render_page(menupage):
     menupage.write()
 
 def title_awesome(body: str):
-    st.write(
-        f"##  Historical American Lynching :  {body} "
+    st.title(
+        "Strange Fruits Project:"  
+        f"{body} "
         "[![Quantum](https://cdn.rawgit.com/sindresorhus/awesome/"
         "d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]"
         "(https://github.com/acheamponge/historical_american_lynchings)"
