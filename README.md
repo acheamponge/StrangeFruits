@@ -1,6 +1,6 @@
 # Strange Fruits Project : Historical American Lynchings
 
-[<img src="https://github.com/MarcSkovMadsen/awesome-streamlit/blob/master/assets/streamlit-logo.png?raw=true">]
+[<img src="https://github.com/acheamponge/historical_american_lynchings/blob/master/streamlitapp/img/sf.jpg">]
 
 The Strange Fruits project is data analytics and visualization project that seeks to bring more insights into Historical American Lynchings.
 
