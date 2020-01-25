@@ -20,7 +20,19 @@ Visit the app at [Strange Fruits Project](http://strangefruit.herokuapp.com/)
 ![Strange Fruits Website](https://github.com/acheamponge/StrangeFruits/blob/master/streamlitapp/img/sf.gif)
 
 
+
+
 ## You can contribute:
 - On Github
  
 - Google Docs: [Strange Fruits Google Docs](https://docs.google.com/document/d/11v9jWw98QerB--y08oQk6fSOUKhxk5p_68Ariy-vYXc/edit?usp=sharing)
+
+
+## Special Thanks:
+
+Huge thank you to MarcSkovMadsen and Avkash whose use of Streamlit helped make the webapp for this project
+
+[MarcSkovMadsen](https://github.com/MarcSkovMadsen/awesome-streamlit/)
+            
+        
+[Avkash](https://github.com/Avkash/demoapps)
