@@ -11,3 +11,6 @@ This project provides:
 - Resources on Lynchings in America.
 
 Visit the app at [StrangeFruits Project](http://strangefruit.herokuapp.com/)!
+
+
+![Strange Fruits Website](https://github.com/MarcSkovMadsen/awesome-streamlit/blob/master/assets/awesome-streamlit-full-branded.gif?raw=true)
