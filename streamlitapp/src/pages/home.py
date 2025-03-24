@@ -6,7 +6,7 @@ import streamlit as st
 
 def write():
     udisp.title_awesome("Historical American Lynchings")
-    image = Image.open('./img/1.jpg')
+    image = Image.open('./streamlitapp/img/1.jpg')
 
     st.image(image, use_column_width=True)
     
