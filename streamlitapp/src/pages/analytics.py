@@ -10,7 +10,7 @@ def write():
     
     
     keys = {
-    './data/lynchings.csv'
+    './streamlitapp/data/lynchings.csv'
             }
     st.header("Dataset")
     pick = st.selectbox("Select Dataset: ", list(keys))
